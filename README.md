@@ -6,6 +6,17 @@
 Cloud 101 Resources
 </h1>
 
+<div align="center">
+
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Digital_Ocean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+</div>
+
+
 The Cloud 101 event is hosted by the Cloud lead of our club and aims to introduce students to cloud computing. The event will cover topics such as cloud architecture, security, services, and deployment, and will include hands-on activities and interactive sessions to provide a first-hand experience of working with cloud computing tools and technologies. The event is free and open to all students.
 
 ## Resources
