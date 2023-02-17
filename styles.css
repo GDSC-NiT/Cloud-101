@@ -1,0 +1,15 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+.main {
+    text-align: center;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
